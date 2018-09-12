@@ -32,3 +32,10 @@ ch.getWavelengths(ion)
 ```
 
 where ```ion``` is a string representing the shorthand for expressing the ion of interest, e.g. singly-ionised aluminium would be "AlII" (looks bad in this font but it should be Al II without a space), 17 times ionised nickel would be "NiXVIII" etc..
+
+There is also a Jupyter Notebook that can be downloaded (chianti.ipynb) for quick and interactive use of this database.
+
+## References
+"CHIANTI - an atomic database for emission lines", Dere, K. P.; Landi, E.; Mason, H. E.; Monsignori Fossi, B. C.; Young, P. R., *Astronomy and Astrophysics*, 1997
+
+"CHIANTI - An atomic database for emission lines. Version 8", Del Zanna, G.; Dere, K. P.; Young, P. R.; Landi, E.; Mason, H. E., *Astronomy and Astrophysics*, 2015
