@@ -36,6 +36,6 @@ where ```ion``` is a string representing the shorthand for expressing the ion of
 There is also a Jupyter Notebook that can be downloaded (chianti.ipynb) for quick and interactive use of this database.
 
 ## References
-"CHIANTI - an atomic database for emission lines", Dere, K. P.; Landi, E.; Mason, H. E.; Monsignori Fossi, B. C.; Young, P. R., *Astronomy and Astrophysics*, 1997
+"CHIANTI - an atomic database for emission lines", Dere, K. P.; Landi, E.; Mason, H. E.; Monsignori Fossi, B. C.; Young, P. R., *Astronomy and Astrophysics*, 1997, [ADS Link](http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=1997A%26AS..125..149D&db_key=AST&high=32ac1ec07715657)
 
-"CHIANTI - An atomic database for emission lines. Version 8", Del Zanna, G.; Dere, K. P.; Young, P. R.; Landi, E.; Mason, H. E., *Astronomy and Astrophysics*, 2015
+"CHIANTI - An atomic database for emission lines. Version 8", Del Zanna, G.; Dere, K. P.; Young, P. R.; Landi, E.; Mason, H. E., *Astronomy and Astrophysics*, 2015, [ADS Link](http://adsabs.harvard.edu/abs/2015A%26A...582A..56D)
