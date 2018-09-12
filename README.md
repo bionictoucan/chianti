@@ -31,4 +31,4 @@ where ```wavelength``` can be given as a number in Angstroms within this wavelen
 ch.getWavelengths(ion)
 ```
 
-where ```ion``` is a string representing the shorthand for expressing the ion of interest, e.g. singly-ionised aluminium would be "AlII", 17 times ionised nickel would be "NiXVIII" etc..
+where ```ion``` is a string representing the shorthand for expressing the ion of interest, e.g. singly-ionised aluminium would be "AlII" (looks bad in this font but it should be Al II without a space), 17 times ionised nickel would be "NiXVIII" etc..
